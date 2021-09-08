@@ -1,26 +1,20 @@
-#twitter : x7mii
+#Telegrlm @o96o6
 
 
-
-
-
-معلومات ملف Packages بالاسفل 
-
-
-Package: معرف الاداة 
-Version: الاصدار
+Package: USERBOT 
+Version: 
 Architecture: iphoneos-arm
-Maintainer: اكتب اسمك
-Depends: المتطلبات 
-Conflicts: التعارضات
-Filename: موقع الملف
+Maintainer: ِدارڪثون
+Depends: ا
+Conflicts: 
+Filename: github
 Size: 
 MD5sum: 
 SHA1: 
 SHA256: 
 Section: Tweaks
-Depiction: رابط صفحة الوصف 
-Name: اسم  الاداه 
+Depiction: hdjsjdbdh
+Name: Darkthon
 
 
  تحط سطر فراغ  تحت المعلومات كل اداة   
