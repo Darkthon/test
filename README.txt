@@ -15,8 +15,3 @@ SHA256:
 Section: Tweaks
 Depiction: hdjsjdbdh
 Name: Darkthon
-
-
- تحط سطر فراغ  تحت المعلومات كل اداة   
- 
- هنا تبدا معلومات  الاداة الثانية 
